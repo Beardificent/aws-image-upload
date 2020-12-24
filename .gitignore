@@ -20,7 +20,7 @@ target/
 *.ipr
 
 .config/
-/src/main/java/com.becode.awsimageuploaddemo/config
+/src/main/java/com.becode.awsimageuploaddemo/config/AmazonConfig/
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
