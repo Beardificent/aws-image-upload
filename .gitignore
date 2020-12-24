@@ -18,9 +18,8 @@ target/
 *.iws
 *.iml
 *.ipr
+/src/main/java/com/becode/awsimageuploaddemo/config/AmazonConfig.java
 
-.config/
-/src/main/java/com.becode.awsimageuploaddemo/config/AmazonConfig/
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
