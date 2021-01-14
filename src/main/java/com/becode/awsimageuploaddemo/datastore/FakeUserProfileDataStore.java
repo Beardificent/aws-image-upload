@@ -2,7 +2,7 @@ package com.becode.awsimageuploaddemo.datastore;
 
 
 import org.springframework.stereotype.Repository;
-
+//careful when importing things called UserProfile as it is a part of AWS itself.
 import com.becode.awsimageuploaddemo.profile.UserProfile;
 
 import java.util.ArrayList;
